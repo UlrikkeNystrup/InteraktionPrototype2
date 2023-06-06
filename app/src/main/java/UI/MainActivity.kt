@@ -50,6 +50,7 @@ fun DefaultPreview() {
     }
 }*/
 
+/*
 
 class MainActivity : AppCompatActivity() {
     private lateinit var viewModel: MainViewModel
@@ -68,10 +69,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+*/
 
 
-
-/*
 
 
 

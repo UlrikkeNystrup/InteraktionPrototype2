@@ -1,4 +1,4 @@
-package com.example.bottomnavbardemo.screens
+package UI.Screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column
